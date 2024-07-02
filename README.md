@@ -20,7 +20,6 @@ I'm Tra, a passionate backend developer. Welcome to my GitHub profile! Here's a 
 
 ## Contributions
 
-- 🌟 I contribute to open-source projects.
 - 📝 I write technical articles on [sopheaktraeang.com](https://sopheaktraeang.com/).
 
 ## Let's Connect!
