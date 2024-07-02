@@ -6,7 +6,7 @@ I'm Tra, a passionate backend developer. Welcome to my GitHub profile! Here's a 
 
 - 🌱 I'm currently learning [Microservice, Domain-Driven Design].
 - 💡 I love solving complex problems and optimizing code.
-- 📫 You can reach me at [eang.sopheaktra.kh@gmail.com].
+- 📫 You can reach me at [email](eang.sopheaktra.kh@gmail.com).
 
 ## Tech Stack
 
