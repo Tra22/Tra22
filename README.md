@@ -11,7 +11,7 @@ I'm Tra, a passionate backend developer. Welcome to my GitHub profile! Here's a 
 ## Tech Stack
 
 - 💻 Languages: [java, c#, php, python and javascript]
-- 🛠️ Tools: [spring/spring boot, asp.net/asp.net core, laravel, flash, reactjs, nextjs, vuejs, nuxtjs and nestjs]
+- 🛠️ Tools: [spring/spring boot, asp.net/asp.net core, laravel, flask, reactjs, nextjs, vuejs, nuxtjs and nestjs]
 - 📊 Databases: [MySQL, PostgreSQL, SQLite, MongoDB, Redis, Oracle Database and Microsoft SQL Server]
 
 ## Projects
