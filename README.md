@@ -14,6 +14,30 @@ I'm Tra, a passionate backend developer. Welcome to my GitHub profile! Here's a 
 - 🛠️ Tools: [spring/spring boot, asp.net/asp.net core, laravel, flask, reactjs, nextjs, vuejs, nuxtjs and nestjs]
 - 📊 Databases: [MySQL, PostgreSQL, SQLite, MongoDB, Redis, Oracle Database and Microsoft SQL Server]
 
+
+### 📊 GitHub Stats
+
+![tra22's GitHub stats](https://github-readme-stats.vercel.app/api?username=tra22&show_icons=true&theme=tokyonight)
+
+---
+
+### 🔥 Streak Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=tra22&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+---
+
+### 🌐 Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tra22&layout=compact&theme=tokyonight)
+
+---
+
+### 🧠 GitHub Contribution Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tra22&theme=tokyo-night)
+
+
 ## Projects
 
 - [Explore Here](https://portfolio.sopheaktraeang.com/)
